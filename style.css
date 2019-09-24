@@ -4,11 +4,10 @@ header {
     text-align: center;
     font-size: 18px;
     color: #777;
-    padding: 40px 0;
+    padding: 40px;
     margin: 150px;
     margin-bottom: 10px;
     margin-top: 10px;
-    ;
   
 
 }
@@ -22,7 +21,7 @@ nav {
     color: #777;
     padding: 40px 0;
     margin: 150px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-top: 10px;
 
 }
@@ -30,4 +29,19 @@ nav {
 body {
 
     background-color: #777;
+}
+
+section {
+
+    background-color: #ebebeb;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+    padding: 150px 275px;
+    margin: 500px 150px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    float: left;
+
 }
