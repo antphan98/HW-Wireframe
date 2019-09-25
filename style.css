@@ -44,6 +44,7 @@ section {
     margin-top: 10px;
     float: left;
     position: relative;
+    
 
 }
 
@@ -54,8 +55,8 @@ article {
     text-align: center;
     font-size: 18px;
     color: #ebebeb;
-    padding: 90px 250px;
-    margin: 100px 100px 100px 180px;
+    padding: 35px 55px;
+    margin: 100px 10px 10px 167px;
     
     position: absolute;
   
@@ -71,8 +72,7 @@ font-size: 18px;
 color: #777;
 padding: 150px 247px;
 margin: 20px 250px 10px 780px;
-
-
+position: relative;
 
 }
 
@@ -90,4 +90,15 @@ footer {
     float: bottom;
 
 
+}
+
+h1 {
+    background-color: #ebebeb;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+    padding: 20px 100px 20px 100px;
+    margin: 10px 50px 50px 167px;
+    
 }
